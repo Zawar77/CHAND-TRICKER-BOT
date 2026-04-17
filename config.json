@@ -1,8 +1,8 @@
 {
-  "BOTNAME": "CHAND",
-  "PREFIX": "$",
+  "BOTNAME": "ZAWAR",
+  "PREFIX": "*",
   "ADMINBOT": [
-    "100012106845156"
+    "61560201213050"
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
@@ -10,6 +10,6 @@
   "APPROVE_ONLY": false,
   "AUTO_ISLAMIC_POST": true,
   "TIMEZONE": "Asia/Karachi",
-  "ADMIN_USERNAME": "chand",
-  "ADMIN_PASSWORD": "chand123"
+  "ADMIN_USERNAME": "zawar",
+  "ADMIN_PASSWORD": "zawar123"
 }
